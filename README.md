@@ -6,12 +6,12 @@ Resources are added frequently! ⚡
 Enjoy!
 ---
 ## Table of Contents
-- [Books for Android Dev](#books-for-android-dev):blue_book:
-- [YouTube Channels for Android Dev](#youtube-channels-for-android-dev):incoming_envelope:
-- [Websites for Android Dev](#websites-for-android-dev):computer:
+- [Books for Blockchain and web3](#books-for-blockchain-and-web3):blue_book:
+- [YouTube Channels for Blockchain and web3](#youtube-channels-for-blockchain-and-web3):incoming_envelope:
+- [Websites for Blockchain and web3](#websites-for-blockchain-and-web3):computer:
 - [Join our Community](#join-our-community):blush:
 ---
-## Books for Blockchain 
+## Books for Blockchain and web3
 | NAME | Hard Copy Link | PDF Copy Link |
 | ---- | -------------- | ------------- |
 | Blockchain and Crypto Currency: Building a High Quality Marketplace for Crypto Data (Economics, Law, and Institutions in Asia Pacific)| [Click Here](https://amzn.eu/d/iwIMYqD) |  |
@@ -31,12 +31,13 @@ Enjoy!
 | [Nader Dabit](https://www.youtube.com/c/naderdabit) | Guided Playlist for web3 |
 | [CodeXpert](https://youtube.com/@CodeXpert) | A channel full of web3 content |
 ---
-## Websites for Android Dev
-| Website Links |
+## Websites for Blockchain and Web3
+| Website and repos Links |
 | ------------- |
-| https://kotlinlang.org/docs/home.html |
-| https://www.swift.org/documentation/ |
-| https://docs.flutter.dev/ |
+|https://github.com/FrancescoXX/free-Web3-resources  |
+|https://gist.github.com/sin2akshay/65cdfe2f7fa1f84b4914f188d49d5323 |
+|https://www.odysseydao.com/|
+|https://www.learnweb3.io/|
 ---
 ## Join our Community
 | Social Media | Link |
