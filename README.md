@@ -24,7 +24,7 @@ Enjoy!
 ## YouTube Videos & Playlists for Blockchain and web3
 | Playlists & Videos | Description |
 | -------------------| ----------- |
-| [Blockchain tutorial for beginners](https://youtu.be/I6rkwJed-HY) |For beginners |
+| [Blockchain tutorial for beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-) |For beginners |
 | [NPTEL Blockchain Course](https://youtube.com/playlist?list=PLHRLZtgrF2jl8yqucJsMFqh5XpRLTgCI4) | Course by Top IIT professors|
 | [Blockchain full 6 hours](https://youtu.be/6aF6p2VUORE) | 3 courses in 1 |
 | [Blockchain and web3](https://youtu.be/gyMwXuJrbJQ) | Full web3 and Blockchain Course|
