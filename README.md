@@ -21,7 +21,7 @@ Enjoy!
 | Blockchain Enabled Applications: Understand the Blockchain Ecosystem and How to Make it Work for You|  | [Click Here](https://www.pdfdrive.com/download.pdf?id=158325896&h=b3127f6abc41a028fbab1d3c4250befd&u=cache&ext=pdf) |
 | Blockchain: Ultimate Step By Step Guide To Understanding Blockchain Technology, Bitcoin Creation |  | [Click Here](https://www.pdfdrive.com/download.pdf?id=195157383&h=9e11ad751ccffee59b3c572fee3ae00a&u=cache&ext=epub) |
 
-## YouTube Videos & Playlists for Blockchain and web3
+## YouTube Channels for Blockchain and web3
 | Playlists & Videos | Description |
 | -------------------| ----------- |
 | [Blockchain tutorial for beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-) |For beginners |
