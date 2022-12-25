@@ -5,6 +5,12 @@ Resources are added frequently! ⚡
 
 Enjoy!
 ---
+## Contributing:cupid:
+To add, remove or change things on the list:
+[please submit a pull request to the GitHub repository](https://github.com/Resourcio-Community/Blockchain-resources-and-web3)
+
+
+
 ## Table of Contents
 - [Books for Blockchain and web3](#books-for-blockchain-and-web3):blue_book:
 - [YouTube Channels for Blockchain and web3](#youtube-channels-for-blockchain-and-web3):incoming_envelope:
